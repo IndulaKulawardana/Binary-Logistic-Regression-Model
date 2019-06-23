@@ -1,10 +1,10 @@
 # Binary Logistic Regression 
 
-Installing following libraries are required prior to run the Binary Logistic Model.R file
+Installing following libraries are required prior to run the Binary Logistic Model.R file.<br/>
 E.g.: install.packages("ISLR")
 
-ISLR
-MASS
-InformationValue
-ResourceSelection
+ISLR<br/>
+MASS<br/>
+InformationValue<br/>
+ResourceSelection<br/>
 rms
